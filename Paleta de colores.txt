@@ -1,0 +1,10 @@
+Color Primario de la pagina: #2f3e54
+Color Secundario: Blanco
+
+
+SERVICIOS:
+
+Cards con texto desplegable desde abajo tapando foto.
+
+
+Seccion con comentarios
